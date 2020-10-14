@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cd03762b79a97686dc135c908a2e290f.js"
+  "sk_praxis_1/precache-manifest.889ad69592c5d732dfcab57e88b15eb2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sk_praxis_code"});
